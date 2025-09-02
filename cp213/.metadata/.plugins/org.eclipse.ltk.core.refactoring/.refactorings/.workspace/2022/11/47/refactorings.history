@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;A04Given&apos; to &apos;awog5200_a04&apos;" description="Rename resource &apos;A04Given&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/A04Given" name="awog5200_a04" stamp="1668974316384" updateReferences="true"/>
+</session>
